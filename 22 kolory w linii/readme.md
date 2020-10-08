@@ -11,20 +11,20 @@ W trybie 9-kolorowym jednak niewielki z tego zysk, ponieważ kolory pikseli 0-3 
 Według ustaleń **Jose Pereiry** [w wątku na AtariAge](https://atariage.com/forums/topic/295004-priority_0-explanation/) okazuje się, że sprajty interferują wtedy z pikselami grafiki dając dodatkowe kolory - cytując:
 
 >Priority_0 gives OR(ings) on PMGs over certain PFs colours so works like this (using charmodes Antic4 and/or 5):
->
->-> PM0 over BAK = PM0 colour
->" " PF0 = PM0 OR PF0 colour
->" " PF1 = PM1 OR PF1 colour
->-> PM1 over BAK = PM1 colour
->" " PF0 = PM1 OR PF0 colour
->" " PF1 = PM1 OR PF1 colour
->-> PM2 over BAK = PM2 colour
->" " PF2 = PM2 OR PF2 colour
->" " PF3 = PM2 OR PF3 colour
->-> PM3 over BAK = PM3 colour
->" " PF2 = PM3 OR PF2 colour
->" " PF3 = PM3 OR PF3 colour
->
+>```
+>-> PM0 over BAK = PM0 colour;
+>" " PF0 = PM0 OR PF0 colour;
+>" " PF1 = PM1 OR PF1 colour;
+>-> PM1 over BAK = PM1 colour;
+>" " PF0 = PM1 OR PF0 colour;
+>" " PF1 = PM1 OR PF1 colour;
+>-> PM2 over BAK = PM2 colour;
+>" " PF2 = PM2 OR PF2 colour;
+>" " PF3 = PM2 OR PF3 colour;
+>-> PM3 over BAK = PM3 colour;
+>" " PF2 = PM3 OR PF2 colour;
+>" " PF3 = PM3 OR PF3 colour;
+>```
 >This way you can have this 12colours more the 5 (BAK/PF0/PF1/PF2/PF3) makes 17colours per scanline possible.
 >
 >If you take of the M (Missiles off) and use only P (Players) is still the same but the mIssiles acts as the 'so called' 5th Player and take PF3 colour. This way the Missiles themselves doesn't OR anything but if P2 or P3 goes over them it'll OR them because they're be considered as PF3 colour.
