@@ -1,4 +1,4 @@
-# [22 kolory w linii](http://atarionline.pl/forum/comments.php?DiscussionID=5613&page=1#Item_3)
+# [22 kolory w linii A8](http://atarionline.pl/forum/comments.php?DiscussionID=5613&page=1#Item_3)
 
 Standartowy tryb [GR.10 BASIC-a](http://atariki.krap.pl/index.php/Graphics_10) pozwala na wykorzystanie 9 kolorów w linii kosztem zmniejszenia rozdzielczości do 80 pikseli w poziomie.
 
