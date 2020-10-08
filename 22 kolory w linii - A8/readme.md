@@ -103,7 +103,7 @@ W trybie ANTIC4 (multicolor) użyteczne kolory umiejscowione są w innych miejsc
 
 ![](antic4.png)
 
-Niejaką wadą może być fakt, że część kolorów dostępnych jest dopiero w znakach z ustawionym bitem inwersji.No ale po co męczyć się z trybem ANTIC4 (multicolor) skoro prościej można użyć wszystkich kolorów w trybie ANTIC2 (hires)?
+Niejaką wadą może być fakt, że część kolorów dostępnych jest dopiero w znakach z ustawionym bitem inwersji. No ale po co męczyć się z trybem ANTIC4 (multicolor) skoro prościej można użyć wszystkich kolorów w trybie ANTIC2 (hires)?
 
 Zarówno przy wykorzystaniu trybu 2 jak i 4 ekran 40x24 znaki zajmuje 960 bajtów. Jednakże zmieniając tryb ANTIC4 na ANTIC5 można zmniejszyć pamięć ekranu o połowę - do 480 bajtów, ponieważ jedna linia trybu zajmuje w nim dwie linie skanningowe. Na ekranie mamy wtedy 12 wierszy trybu zamiast 24.
 
