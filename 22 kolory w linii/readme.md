@@ -12,18 +12,18 @@ Według ustaleń **Jose Pereiry** [w wątku na AtariAge](https://atariage.com/fo
 
 >Priority_0 gives OR(ings) on PMGs over certain PFs colours so works like this (using charmodes Antic4 and/or 5):
 >
->-> PM0 over BAK = PM0 colour;
->" " PF0 = PM0 OR PF0 colour;
->" " PF1 = PM1 OR PF1 colour;
->-> PM1 over BAK = PM1 colour;
->" " PF0 = PM1 OR PF0 colour;
->" " PF1 = PM1 OR PF1 colour;
->-> PM2 over BAK = PM2 colour;
->" " PF2 = PM2 OR PF2 colour;
->" " PF3 = PM2 OR PF3 colour;
->-> PM3 over BAK = PM3 colour;
->" " PF2 = PM3 OR PF2 colour;
->" " PF3 = PM3 OR PF3 colour;
+>-> PM0 over BAK = PM0 colour
+>" " PF0 = PM0 OR PF0 colour
+>" " PF1 = PM1 OR PF1 colour
+>-> PM1 over BAK = PM1 colour
+>" " PF0 = PM1 OR PF0 colour
+>" " PF1 = PM1 OR PF1 colour
+>-> PM2 over BAK = PM2 colour
+>" " PF2 = PM2 OR PF2 colour
+>" " PF3 = PM2 OR PF3 colour
+>-> PM3 over BAK = PM3 colour
+>" " PF2 = PM3 OR PF2 colour
+>" " PF3 = PM3 OR PF3 colour
 >
 >This way you can have this 12colours more the 5 (BAK/PF0/PF1/PF2/PF3) makes 17colours per scanline possible.
 >
