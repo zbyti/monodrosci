@@ -11,7 +11,7 @@ W trybie 9-kolorowym jednak niewielki z tego zysk, ponieważ kolory pikseli 0-3 
 Według ustaleń **Jose Pereiry** [w wątku na AtariAge](https://atariage.com/forums/topic/295004-priority_0-explanation/) okazuje się, że sprajty interferują wtedy z pikselami grafiki dając dodatkowe kolory - cytując:
 
 >Priority_0 gives OR(ings) on PMGs over certain PFs colours so works like this (using charmodes Antic4 and/or 5):
-
+>
 >-> PM0 over BAK = PM0 colour;
 >" " PF0 = PM0 OR PF0 colour;
 >" " PF1 = PM1 OR PF1 colour;
