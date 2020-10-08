@@ -56,7 +56,7 @@ Według ustaleń **Jose Pereiry** [w wątku na AtariAge](https://atariage.com/fo
 >
 >             "               "   PF3: (PM2 OR PM3) OR PF3 colour;
 >```
-This way to 17colours above we'll add more 6colours and that is why you may have read that A8 can display maximum of 23colours per scanline.
+>This way to 17colours above we'll add more 6colours and that is why you may have read that A8 can display maximum of 23colours per scanline.
 >
 >This way to 17colours above we'll add more 6colours and that is why you may have read that A8 can display maximum of 23colours per scanline.
 
