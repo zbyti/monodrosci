@@ -62,7 +62,9 @@ Według ustaleń **Jose Pereiry** [w wątku na AtariAge](https://atariage.com/fo
 
 A więc dodatkowe kolory uzyskuje się nie tylko z nałożenia pikseli sprajtów na piksele trybu graficznego, ale również już uprzednio nałożonych sprajtów np. PM0 i PM1 oraz PF0.
 
-Zrobiłem prosty programik [anticgtiatest.obx](./anticgtiatest.obx) do eksperymentowania z trybami GTIA i tekstowymi trybami ANTIC2 (GR.0) i ANTIC4 (GR.12), prezentacja na [YT](https://youtu.be/tUW8Xyozhgg).
+Zrobiłem prosty programik [anticgtiatest.obx](./anticgtiatest.obx) do eksperymentowania z trybami GTIA i tekstowymi trybami ANTIC2 (GR.0) i ANTIC4 (GR.12). Prezentację działania programu możńa zobaczyć na [YT](https://youtu.be/tUW8Xyozhgg).
+
+![](anticgtiatest.png)
 
 Na ekranie mamy w pierwszej linii:
 
@@ -80,8 +82,6 @@ W drugiej zaś:
 - Gxx - tryb GTIA
 
 Poniżej znajduje się 16 wierszy zawierających piksele o kolejnych indeksach kolorów - wiersz pierwszy to wyłącznie piksele 0, drugi - 1, trzeci - 2 i tak aż do F. Uzyskałem w ten sposób matrycę, która pozwala obserwować interakcje pikseli trybu graficznego (wiersze) z pikselami sprajtów (kolumny).
-
-![](anticgtiatest.png)
 
 Klawiszologia jest w zasadzie opisana na ekranie:
 
