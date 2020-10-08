@@ -24,22 +24,22 @@ Według ustaleń **Jose Pereiry** [w wątku na AtariAge](https://atariage.com/fo
 >-> PM3 over BAK = PM3 colour;
 >" " PF2 = PM3 OR PF2 colour;
 >" " PF3 = PM3 OR PF3 colour;
-
+>
 >This way you can have this 12colours more the 5 (BAK/PF0/PF1/PF2/PF3) makes 17colours per scanline possible.
-
+>
 >If you take of the M (Missiles off) and use only P (Players) is still the same but the mIssiles acts as the 'so called' 5th Player and take PF3 colour. This way the Missiles themselves doesn't OR anything but if P2 or P3 goes over them it'll OR them because they're be considered as PF3 colour.
-
+>
 >On Mode D and E bitmap modes this same thing happens but you don't have PF3 but you can still OR it if you have the Missiles as 5th Player and P2/P3 OR them.
-
+>
 >Also if you go to PMGs multicolour mode that is PM0 OR PM1 and PM2 OR PM3 to above you'll have to add:
-
+>
 >-> PM0 OR PM1 over BAK: PM0 OR PM1 colour;
 >" " PF0: (PM0 OR PM1) OR PF0 colour;
 >" " PF1: (PM0 OR PM1) OR PF1 colour;
 >-> PM2 OR PM3 over BAK: PM2 OR PM3 colour;
 >" " PF2: (PM2 OR PM3) OR PF2 colour;
 >" " PF3: (PM2 OR PM3) OR PF3 colour;
-
+>
 >This way to 17colours above we'll add more 6colours and that is why you may have read that A8 can display maximum of 23colours per scanline.
 
 A więc dodatkowe kolory uzyskuje się nie tylko z nałożenia pikseli sprajtów na piksele trybu graficznego, ale również już uprzednio nałożonych sprajtów np. PM0 i PM1 oraz PF0.
