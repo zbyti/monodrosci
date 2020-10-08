@@ -99,7 +99,7 @@ W trybie ANTIC2 (hires) konfiguracja kolorów wygląda jak na rysunku:
 
 ![](antic2.png)
 
-W trybie ANTIC4 (multicolor) użyteczne kolory umiejscowione są w innych miejscach, lecz ciągle da się uzyskać ich na ekranie 22 - rysunki:
+W trybie ANTIC4 (multicolor) użyteczne kolory umiejscowione są w innych miejscach, lecz ciągle da się uzyskać ich na ekranie 22:
 
 ![](antic4.png)
 
