@@ -1,4 +1,5 @@
-#22 kolory w linii
+# 22 kolory w linii
+
 Standartowy tryb [GR.10 BASIC-a](http://atariki.krap.pl/index.php/Graphics_10) pozwala na wykorzystanie 9 kolorów w linii kosztem zmniejszenia rozdzielczości do 80 pikseli w poziomie.
 
 Włączenie tego trybu realizowane jest tak, że konstruowana jest [Display List](http://atariki.krap.pl/index.php/ANTIC_Display_List) jak dla trybu GR.8 (hires) po czym w rejestrze GTIACTL ustawiany jest tryb %10 GTIA. Tyle umożliwia system operacyjny z BASIC-em.
