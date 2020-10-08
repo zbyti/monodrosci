@@ -62,7 +62,7 @@ Według ustaleń **Jose Pereiry** [w wątku na AtariAge](https://atariage.com/fo
 
 A więc dodatkowe kolory uzyskuje się nie tylko z nałożenia pikseli sprajtów na piksele trybu graficznego, ale również już uprzednio nałożonych sprajtów np. PM0 i PM1 oraz PF0.
 
-Zrobiłem prosty programik [anticgtiatest.obx](./anticgtiatest.obx) do eksperymentowania z trybami GTIA i tekstowymi trybami ANTIC2 (GR.0) i ANTIC4 (GR.12). Prezentację działania programu możńa zobaczyć na [YT](https://youtu.be/tUW8Xyozhgg).
+Zrobiłem prosty programik [anticgtiatest.obx](./anticgtiatest.obx) do eksperymentowania z trybami GTIA i tekstowymi trybami ANTIC2 (GR.0) i ANTIC4 (GR.12). Program w działaniu programu można zobaczyć na [tutaj](https://youtu.be/tUW8Xyozhgg).
 
 ![](anticgtiatest.png)
 
